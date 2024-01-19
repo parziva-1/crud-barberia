@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79c7a5a2-ccaf-4bb5-a139-15a8b1683f0e"
+      }
+    },
+    "owner": "parziva-1"
   }
 }
