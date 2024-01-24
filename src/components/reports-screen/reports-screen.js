@@ -5,7 +5,7 @@ import { Text } from 'react-native-paper'
 export default function ReportsScreen() {
   return (
     <View style={styles.container}>
-      <Text>Home Screen</Text>
+      <Text>Reports Screen</Text>
     </View>
   )
 }
